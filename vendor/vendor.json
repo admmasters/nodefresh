@@ -1,0 +1,25 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "ztZ7NgU6sSRXguf1pONn/VhD7Kc=",
+			"path": "github.com/joho/godotenv",
+			"revision": "6bb08516677f8c8274c557fc801bee9ab564ab2c",
+			"revisionTime": "2018-01-15T02:49:21Z"
+		},
+		{
+			"checksumSHA1": "MMeRLzVlQa2QyxxpLTWu0FIB/M0=",
+			"path": "github.com/kelseyhightower/envconfig",
+			"revision": "b2c5c876e2659d9060d82e9b8494150d53854cc4",
+			"revisionTime": "2018-03-08T19:05:16Z"
+		},
+		{
+			"checksumSHA1": "9ZSqjmvF/JE6Qj/5xOoCAmUgXz8=",
+			"path": "github.com/sirupsen/logrus",
+			"revision": "778f2e774c725116edbc3d039dc0dfc1cc62aae8",
+			"revisionTime": "2018-03-29T22:59:52Z"
+		}
+	],
+	"rootPath": "github.com/admmasters/tuts/nodefresh"
+}
