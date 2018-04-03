@@ -90,10 +90,6 @@ func (n *nodeFresh) getRoot() {
 		panic(err)
 	}
 
-	if len(root) == 1 {
-		root[0] = fmt.Sprintf("%v%v", wd, root[0])
-	}
-
 	if len(root) > 1 {
 		panic(fmt.Sprintf("We only support a single input folder"))
 	}
